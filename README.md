@@ -103,6 +103,9 @@ Since this tool is meant to help you learn FFmpeg, here's a quick reference:
 -t      → duration
 ```
 
+## Different languages supported: 
+For now only Polish 🇵🇱 and English 🇺🇸 supported.
+
 ## 📜 License
 MIT — do whatever you want with it. But I would be very happy if You could mention me in Your work!
 
